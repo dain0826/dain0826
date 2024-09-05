@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 ## 🖥️ Projects
-|Service|Description|
-|:--:|:--:|
-|[숙닥숙닥](https://github.com/Team-Nunetine/Sookdak-server)|숙명여자대학교 교내 커뮤니티 앱 서비스|
-|[트리블리](https://github.com/Trively/Trively-server)|여행지 추천 및 여행동행 추천 웹 서비스|
-|[MEET:Z](https://github.com/dain0826/MEET-Z)|영상통화 팬싸인회 자동화 플랫폼|
+|Service|Description|Award|
+|:--:|:--:|:--|
+|[숙닥숙닥](https://github.com/Team-Nunetine/Sookdak-server)|숙명여자대학교 교내 커뮤니티 앱 서비스|캡스톤디자인 1등|
+|[트리블리](https://github.com/Trively/Trively-server)|여행지 추천 및 여행동행 추천 웹 서비스|SSAFY 11기 관통프로젝트 최우수|
+|[MEET:Z](https://github.com/dain0826/MEET-Z)|영상통화 팬싸인회 자동화 플랫폼|SSAFY 11기 공통프로젝트 우수|
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dain0826)](https://solved.ac/dain0826)   ![dain's GitHub stats](https://github-readme-stats.vercel.app/api?username=dain0826&show_icons=true&theme=transparent)
